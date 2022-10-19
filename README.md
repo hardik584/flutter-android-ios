@@ -1,16 +1,16 @@
 # flutter-android-ios
 A. Descriptive Questions: 
-1. Can we nest the Scaffold widget? Why or Why not? 
+1. Can we nest the Scaffold widget? Why or Why not? <br />
 Answer: We can nest the scaffold widget but we should use one scaffold in one page.
-2. What are the different ways we can create a custom widget ? 
+2. What are the different ways we can create a custom widget ? <br />
 Answer: we can create custom widget by so many ways
         1. Stateless widget
         2. Stateful widget
         3. Customer Painter
         4. MethodChannel (Incoming intents)
-3. How can I access platform(iOS or Android) specific code from Flutter? 
+3. How can I access platform(iOS or Android) specific code from Flutter? <br />
 Answer: We can access platform specific code via MethodChannel and EventChannel(Streaming)
-4. What is BuildContext? What is its importance? 
+4. What is BuildContext? What is its importance? <br />
 Answer: BuildContext is a locator that is used to track each widget in a tree and locate them and their position in the tree. 
         The BuildContext of each widget is passed to their build method. 
         Remember that the build method returns the widget tree a widget renders. 
