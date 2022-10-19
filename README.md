@@ -7,7 +7,7 @@ A. Descriptive Questions:
 
 B. Coding Questions: 
 1. Refactor the code below so that the children will wrap to the next line when the display width is small for them to fit.
-![Answer 1](https://i.postimg.cc/2qsST7T3/ans1.png)
+![Answer 1](https://i.postimg.cc/LHktVw4W/ans1.png?dl=1)
 2. Identify the problem in the following code block and correct it. 
 ![Answer 2](https://i.postimg.cc/vg7xVKMG/ans2.png)
 3. In the below code, list1 declared with var, list2 with final and list3 with const. What is the difference between these lists? Will the last two lines compile? 
